@@ -17,6 +17,8 @@ async function updateReadme() {
         readme += `Fetching failed`;
     }
 
+    readme += "\r\n";
+
     fs.writeFile('quotes.txt', readme, { 'flag': 'a' }, function (err) {
         if (err) {
             return console.error(err);
