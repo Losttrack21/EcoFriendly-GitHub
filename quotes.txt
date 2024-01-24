@@ -295,3 +295,4 @@ Quote on |Tue, 23 Jan 2024 01:33:14 GMT| :  He who is taught to live upon little
 Quote on |Tue, 23 Jan 2024 11:18:18 GMT| :  If you find yourself in a hole, the first thing to do is stop digging. - Will Rogers
 Quote on |Tue, 23 Jan 2024 22:23:56 GMT| :  The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident. - Charles Lamb
 Quote on |Wed, 24 Jan 2024 01:33:04 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
+Quote on |Wed, 24 Jan 2024 11:18:13 GMT| :  In every walk with nature, one receives far more than he seeks. - John Muir
