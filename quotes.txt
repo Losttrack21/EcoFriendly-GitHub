@@ -366,3 +366,4 @@ Fetching failed
 Fetching failed
 Quote on |Tue, 13 Feb 2024 11:19:09 GMT| :  Knowing is not enough; we must apply! - Johann Wolfgang von Goethe
 Quote on |Tue, 13 Feb 2024 22:24:16 GMT| :  Change in all things is sweet. - Aristotle
+Quote on |Wed, 14 Feb 2024 01:19:38 GMT| :  Persuasion is often more effectual than force. - Aesop
